@@ -1,7 +1,7 @@
    # Hi there 👋 I'm dev26-h
 
 -->
-   ## Welcome to My Profile. 
+   <h2> Welcome to My Profile. 
 
 ---
 # 💡QUOTE
