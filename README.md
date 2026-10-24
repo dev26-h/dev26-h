@@ -11,5 +11,6 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dev26-h&style=for-the badge&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=dev26-h&style=for-the-badge&color=blue" alt="Profile Views" />
 </p>
+
