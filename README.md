@@ -10,60 +10,11 @@
 
 ---
 
-## 🛠 Tech Arsenal
-
-### 💻 Programming & Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,flask,django,mysql&theme=dark" />
-</p>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-1e40af?style=for-the-badge&logo=python&logoColor=white&labelColor=0f172a" height="35"/>
-  <img src="https://img.shields.io/badge/Java-2563eb?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0f172a" height="35"/>
-  <img src="https://img.shields.io/badge/C++-0f766e?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=0f172a" height="35"/>
-  <img src="https://img.shields.io/badge/SQL-3b82f6?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0f172a" height="35"/>
-  <img src="https://img.shields.io/badge/HTML5-93c5fd?style=for-the-badge&logo=html5&logoColor=white&labelColor=0f172a" height="35"/>
-  <img src="https://img.shields.io/badge/CSS3-1e40af?style=for-the-badge&logo=css3&logoColor=white&labelColor=0f172a" height="35"/>
-  <img src="https://img.shields.io/badge/Flask-2563eb?style=for-the-badge&logo=flask&logoColor=white&labelColor=0f172a" height="35"/>
-  <img src="https://img.shields.io/badge/Django-3b82f6?style=for-the-badge&logo=django&logoColor=white&labelColor=0f172a" height="35"/>
-</div>
-
-
-### 🤖 Data Science & AI/ML
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
-</p>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/NumPy-1e40af?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0f172a" height="35"/>
-  <img src="https://img.shields.io/badge/Pandas-2563eb?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0f172a" height="35"/>
-  <img src="https://img.shields.io/badge/Matplotlib-3b82f6?style=for-the-badge&logo=python&logoColor=white&labelColor=0f172a" height="35"/>
-  <img src="https://img.shields.io/badge/Seaborn-60a5fa?style=for-the-badge&logo=python&logoColor=white&labelColor=0f172a" height="35"/>
-</div>
-
-
-### 🛠 Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,github,linux,ubuntu,mysql&theme=dark" />
-</p>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Jupyter-1e40af?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0f172a" height="35"/>
-  <img src="https://img.shields.io/badge/VSCode-2563eb?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0f172a" height="35"/>
-  <img src="https://img.shields.io/badge/GitHub-3b82f6?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a" height="35"/>
-  <img src="https://img.shields.io/badge/Linux-60a5fa?style=for-the-badge&logo=linux&logoColor=white&labelColor=0f172a" height="35"/>
-  <img src="https://img.shields.io/badge/Ubuntu-93c5fd?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=0f172a" height="35"/>
-  <img src="https://img.shields.io/badge/MySQL-1e40af?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0f172a" height="35"/>
-</div>
-
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center" style="background: linear-gradient(135deg, rgba(30, 58, 138, 0.1), rgba(59, 130, 246, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-kashi6t8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&ring_color=58A6FF&border_radius=15" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-kashi6t8&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&border_radius=15" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dev26-h&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&ring_color=58A6FF&border_radius=15" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev26-h&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&border_radius=15" width="48%" />
 </div>
 
 <div align="center">
@@ -73,10 +24,6 @@
 <div align="center" style="margin: 20px 0;">
   <img src="https://github-profile-trophy.vercel.app/?username=dev26-h&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
-
-
-
-
 
 ---
 
