@@ -33,9 +33,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev26-h&custom_title=dev%20GitHub%20Activity%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area_color=1F6FEB&title_color=58A6FF&area=true&hide_border=true&radius=15" width="100%"/>
 </div>
 
-<!-- Added custom animated section with Kashif's name and data science journey -->
+<!-- Added custom animated section with dev26-h name and data science journey -->
 <div align="center" style="margin: 40px 0; background: linear-gradient(135deg, rgba(30, 58, 138, 0.15), rgba(59, 130, 246, 0.15)); padding: 30px; border-radius: 20px; border: 2px solid rgba(88, 166, 255, 0.3);">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3000&pause=800&color=58A6FF,1E90FF,00BFFF&center=true&vCenter=true&width=700&lines=Kashif+Sultan+-+Aspiring+Data+Scientist;Learning+%26+Growing+in+ML+%26+AI;Mastering+DL+%26+Neural+Networks;Transforming+Challenges+into+Opportunities;Building+the+Future+with+Data" alt="dev's Journey" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3000&pause=800&color=58A6FF,1E90FF,00BFFF&center=true&vCenter=true&width=700&lines=dev+26+-+Aspiring+Data+Scientist;Learning+%26+Growing+in+ML+%26+AI;Mastering+DL+%26+Neural+Networks;Transforming+Challenges+into+Opportunities;Building+the+Future+with+Data" alt="dev's Journey" />
   <br><br>
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" height="250" alt="Kashif Learning Journey" style="border-radius: 20px; box-shadow: 0 12px 40px rgba(59, 130, 246, 0.4);">
   <br><br>
